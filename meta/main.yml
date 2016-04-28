@@ -1,4 +1,6 @@
 ---
+dependencies: []
+
 galaxy_info:
   description: Install composer
   license: Apache v2
